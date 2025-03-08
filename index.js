@@ -7,6 +7,7 @@ function writeCards(names, eventName) {
     return messages;
 }
 
+
 writeCards(["Charlie", "Samip", "Ali"], "birthday");
 
 function countDown(z) {
